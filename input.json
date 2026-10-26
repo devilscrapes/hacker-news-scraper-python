@@ -1,0 +1,9 @@
+{
+  "feed": "top",
+  "maxResults": 10,
+  "includeText": true,
+  "concurrency": 8,
+  "proxyConfiguration": {
+    "useApifyProxy": false
+  }
+}
